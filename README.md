@@ -1,2 +1,2 @@
 # ProjetoFianal_CD
-Projeto Final c
+Projeto Final de Ciência dos Dados
